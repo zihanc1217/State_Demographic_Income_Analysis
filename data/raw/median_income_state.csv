@@ -1,0 +1,157 @@
+STATE,YEAR,NAME,median_hh_income
+01,2021,Alabama,53913
+72,2021,Puerto Rico,22237
+04,2021,Arizona,69056
+05,2021,Arkansas,52528
+06,2021,California,84907
+08,2021,Colorado,82254
+09,2021,Connecticut,83771
+10,2021,Delaware,71091
+11,2021,District of Columbia,90088
+12,2021,Florida,63062
+13,2021,Georgia,66559
+15,2021,Hawaii,84857
+16,2021,Idaho,66474
+17,2021,Illinois,72205
+18,2021,Indiana,62743
+19,2021,Iowa,65600
+20,2021,Kansas,64124
+21,2021,Kentucky,55573
+22,2021,Louisiana,52087
+23,2021,Maine,64767
+24,2021,Maryland,90203
+25,2021,Massachusetts,89645
+26,2021,Michigan,63498
+27,2021,Minnesota,77720
+28,2021,Mississippi,48716
+29,2021,Missouri,61847
+30,2021,Montana,63249
+31,2021,Nebraska,66817
+32,2021,Nevada,66274
+33,2021,New Hampshire,88465
+34,2021,New Jersey,89296
+35,2021,New Mexico,53992
+36,2021,New York,74314
+37,2021,North Carolina,61972
+38,2021,North Dakota,66519
+39,2021,Ohio,62262
+40,2021,Oklahoma,55826
+41,2021,Oregon,71562
+42,2021,Pennsylvania,68957
+44,2021,Rhode Island,74008
+45,2021,South Carolina,59318
+46,2021,South Dakota,66143
+47,2021,Tennessee,59695
+48,2021,Texas,66963
+49,2021,Utah,79449
+50,2021,Vermont,72431
+51,2021,Virginia,80963
+53,2021,Washington,84247
+54,2021,West Virginia,51248
+55,2021,Wisconsin,67125
+56,2021,Wyoming,65204
+02,2021,Alaska,77845
+01,2022,Alabama,59674
+02,2022,Alaska,88121
+04,2022,Arizona,74568
+05,2022,Arkansas,55432
+06,2022,California,91551
+08,2022,Colorado,89302
+09,2022,Connecticut,88429
+10,2022,Delaware,82174
+11,2022,District of Columbia,101027
+12,2022,Florida,69303
+13,2022,Georgia,72837
+15,2022,Hawaii,92458
+16,2022,Idaho,72785
+17,2022,Illinois,76708
+18,2022,Indiana,66785
+19,2022,Iowa,69588
+20,2022,Kansas,68925
+21,2022,Kentucky,59341
+22,2022,Louisiana,55416
+23,2022,Maine,69543
+24,2022,Maryland,94991
+25,2022,Massachusetts,94488
+26,2022,Michigan,66986
+27,2022,Minnesota,82338
+28,2022,Mississippi,52719
+29,2022,Missouri,64811
+30,2022,Montana,67631
+31,2022,Nebraska,69597
+32,2022,Nevada,72333
+33,2022,New Hampshire,89992
+34,2022,New Jersey,96346
+35,2022,New Mexico,59726
+36,2022,New York,79557
+37,2022,North Carolina,67481
+38,2022,North Dakota,71970
+39,2022,Ohio,65720
+40,2022,Oklahoma,59673
+41,2022,Oregon,75657
+42,2022,Pennsylvania,71798
+44,2022,Rhode Island,81854
+45,2022,South Carolina,64115
+46,2022,South Dakota,69728
+47,2022,Tennessee,65254
+48,2022,Texas,72284
+49,2022,Utah,89168
+50,2022,Vermont,73991
+51,2022,Virginia,85873
+53,2022,Washington,91306
+54,2022,West Virginia,54329
+55,2022,Wisconsin,70996
+56,2022,Wyoming,70042
+72,2022,Puerto Rico,24112
+01,2023,Alabama,62212
+02,2023,Alaska,86631
+04,2023,Arizona,77315
+05,2023,Arkansas,58700
+06,2023,California,95521
+08,2023,Colorado,92911
+09,2023,Connecticut,91665
+10,2023,Delaware,81361
+11,2023,District of Columbia,108210
+12,2023,Florida,73311
+13,2023,Georgia,74632
+15,2023,Hawaii,95322
+16,2023,Idaho,74942
+17,2023,Illinois,80306
+18,2023,Indiana,69477
+19,2023,Iowa,71433
+20,2023,Kansas,70333
+21,2023,Kentucky,61118
+22,2023,Louisiana,58229
+23,2023,Maine,73733
+24,2023,Maryland,98678
+25,2023,Massachusetts,99858
+26,2023,Michigan,69183
+27,2023,Minnesota,85086
+28,2023,Mississippi,54203
+29,2023,Missouri,68545
+30,2023,Montana,70804
+31,2023,Nebraska,74590
+32,2023,Nevada,76364
+33,2023,New Hampshire,96838
+34,2023,New Jersey,99781
+35,2023,New Mexico,62268
+36,2023,New York,82095
+37,2023,North Carolina,70804
+38,2023,North Dakota,76525
+39,2023,Ohio,67769
+40,2023,Oklahoma,62138
+41,2023,Oregon,80160
+42,2023,Pennsylvania,73824
+44,2023,Rhode Island,84972
+45,2023,South Carolina,67804
+46,2023,South Dakota,71810
+47,2023,Tennessee,67631
+48,2023,Texas,75780
+49,2023,Utah,93421
+50,2023,Vermont,81211
+51,2023,Virginia,89931
+53,2023,Washington,94605
+54,2023,West Virginia,55948
+55,2023,Wisconsin,74631
+56,2023,Wyoming,72415
+72,2023,Puerto Rico,25621
